@@ -15,3 +15,7 @@ run with image:
 
 `./quantum_image input_image.jpg output_image.png`
 
+## example:
+
+![example.png](example.png)
+
